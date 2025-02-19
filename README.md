@@ -83,6 +83,32 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 
 
 
+#### Mapping Entities to Tables
+![image](https://github.com/user-attachments/assets/2cdd5f26-6e9b-447c-9d40-a049dbe7927d)
+![image](https://github.com/user-attachments/assets/b79110c2-a1ef-49c3-83cc-303916884029)
+
+![image](https://github.com/user-attachments/assets/7c9f4707-593a-465f-9674-d11547436196)
+![image](https://github.com/user-attachments/assets/75d7b398-cca1-4deb-bc85-e1910a6bfbfb)
+
+- relational database
+![image](https://github.com/user-attachments/assets/8f0e65de-4e97-41ee-8c41-51947799936f)
+
+![image](https://github.com/user-attachments/assets/e891a808-c1af-46eb-92bb-1e2e92e0949d)
+![image](https://github.com/user-attachments/assets/88541121-4457-46da-9021-98d6918dd0bd)
+
+
+##### Best practices
+![image](https://github.com/user-attachments/assets/92fe7916-28cb-475d-8907-812a44941936)
+
+![image](https://github.com/user-attachments/assets/f724ae61-aa97-44ef-b16c-2b00c48d6175)
+
+![image](https://github.com/user-attachments/assets/d5aa63ff-fc70-4782-973b-a49d4fe7afcb)
+
+![image](https://github.com/user-attachments/assets/06d54bc2-c717-4d49-ac58-9ff09f611804)
+
+
+
+
   ### 2. Introducing Relational Database Products
   
 
