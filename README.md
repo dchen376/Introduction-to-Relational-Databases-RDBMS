@@ -61,9 +61,16 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
   ![image](https://github.com/user-attachments/assets/c912ab05-b44c-4461-8e24-742ddece57b0)
 
 
+#### ERDs and Types of Relationships 
+![image](https://github.com/user-attachments/assets/1caf61ba-60ce-452e-9486-e3a925cc6d2c)
 
+-ERD (entity-relationship diagram)
+![image](https://github.com/user-attachments/assets/de8dbc51-1d73-4171-9a10-a1639e7feffd)
+![image](https://github.com/user-attachments/assets/329157cf-b0da-443e-bc6e-cb477e133702)
+![image](https://github.com/user-attachments/assets/7876bb7f-d65e-4ba2-b526-aede70d0da9c)
 
-
+![image](https://github.com/user-attachments/assets/2085ab59-8227-40ae-91ca-7b853e9e5bb7)
+##### one-to-one relationship
 
 
   ### 2. Introducing Relational Database Products
