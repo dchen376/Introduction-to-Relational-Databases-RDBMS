@@ -71,6 +71,16 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 
 ![image](https://github.com/user-attachments/assets/2085ab59-8227-40ae-91ca-7b853e9e5bb7)
 ##### one-to-one relationship
+![image](https://github.com/user-attachments/assets/d654858f-88cf-4e9c-8eb9-0ca70fd13b03)
+
+##### one-to-many relationship
+![image](https://github.com/user-attachments/assets/6cd459c6-91ad-43f3-ae43-fa3cf3d924cb)
+(many authors writing this one Book).
+
+##### many-to-many relationship
+![image](https://github.com/user-attachments/assets/4073a15c-3626-4b83-bffc-d2fbfb03a88a)
+
+
 
 
   ### 2. Introducing Relational Database Products
