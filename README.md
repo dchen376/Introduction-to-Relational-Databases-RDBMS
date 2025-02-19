@@ -107,6 +107,36 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 ![image](https://github.com/user-attachments/assets/06d54bc2-c717-4d49-ac58-9ff09f611804)
 
 
+#### Data Types
+![image](https://github.com/user-attachments/assets/48553285-5377-4fb2-86b0-b148f0f5f13a)
+
+
+![image](https://github.com/user-attachments/assets/9e7fa9b5-7c7f-4fb5-bac2-a1fd114ed142)
+
+- Varchar
+![image](https://github.com/user-attachments/assets/adb84221-caf1-4637-8615-13c4396cd67b)
+
+- other types
+![image](https://github.com/user-attachments/assets/a42e25f3-c51f-4d7a-8a7a-cc13e4b859e6)
+
+![image](https://github.com/user-attachments/assets/32fa1329-6799-4791-b7f4-d08dc0242858)
+
+![image](https://github.com/user-attachments/assets/68bce39e-48fa-43d8-8d8c-0ec7639a31f0)
+
+![image](https://github.com/user-attachments/assets/aa469407-8f90-48eb-9471-8e91a1d346c3)
+![image](https://github.com/user-attachments/assets/833ffde2-49d5-40fe-80c0-2f2565f05f71)
+
+![image](https://github.com/user-attachments/assets/3f076478-9bcb-41d1-949e-28da968b3d69)
+
+![image](https://github.com/user-attachments/assets/ff3dae37-6c17-4e2d-8fe5-32b020cb56e3)
+
+![image](https://github.com/user-attachments/assets/6950cee1-5b6b-4256-823f-68d022c3cb28)
+
+![image](https://github.com/user-attachments/assets/e5937be6-514b-48d0-97bc-457ca6af484a)
+
+
+#### Relational Model Concepts
+
 
 
   ### 2. Introducing Relational Database Products
