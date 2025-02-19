@@ -2,10 +2,19 @@
 https://www.coursera.org/learn/introduction-to-relational-databases/
 
 ## M1 - Relational Database Concepts
+![image](https://github.com/user-attachments/assets/1f684afa-9af3-4703-8206-0fa26441bedc)
+
+
+
 
   ### 1. Fundamental Relational Database Concepts
 
   ### 2. Introducing Relational Database Products
+
+
+
+
+  
 
 ## M2 - Using Relational Databases
 
@@ -16,12 +25,18 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
   ### 3. (Optional) Db2 Labs
 
 
+
+
+
 ## M3 - MySQL and PostgreSQL
 
   ### 1. MySQL
 
 
   ### 2. PostgreSQL
+
+
+  
 
 ## M4 - Final Project and Assessment
 
