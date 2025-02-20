@@ -295,8 +295,73 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 ## M2 - Using Relational Databases
 ![image](https://github.com/user-attachments/assets/9f510bc1-e4f0-4cd7-aa68-92aa0b4dd279)
 
+![image](https://github.com/user-attachments/assets/07765215-c498-46a3-811a-731fd78ca71a)
+
 
   ### 1. Creating Tables and Loading Data
+
+#### Types of SQL Statements (DDL vs. DML)
+
+![image](https://github.com/user-attachments/assets/0f17e1a3-14f9-48c1-887d-c5af9560455a)
+
+![image](https://github.com/user-attachments/assets/12067545-c793-4401-b360-d51d6709ce5b)
+
+#### Creating Tables
+![image](https://github.com/user-attachments/assets/7bc8b623-5014-4a06-9145-b8a68f260a7e)
+
+![image](https://github.com/user-attachments/assets/2d9605d0-a72e-4638-ab39-ad3991fd58a2)
+![image](https://github.com/user-attachments/assets/49040530-0fbd-4f09-93aa-22e8e10266a5)
+![image](https://github.com/user-attachments/assets/d8076e97-7d7a-443d-b053-71447545e94d)
+![image](https://github.com/user-attachments/assets/5610668b-f928-4032-9149-3122a1fb4ac6)
+
+![image](https://github.com/user-attachments/assets/29e4aeed-097c-4bf6-9db0-aaf4c297e392)
+![image](https://github.com/user-attachments/assets/50867d30-4390-4000-affd-cd6036d10547)
+![image](https://github.com/user-attachments/assets/8eccf1d2-1fe7-4c5d-be8c-9bc2c0d716d3)
+![image](https://github.com/user-attachments/assets/4f3ea06b-960f-4aca-aa9e-f648075c8842)
+
+#### CREATE TABLE Statement
+![image](https://github.com/user-attachments/assets/4ed4493c-42ed-443f-8f11-eee3ea77620a)
+![image](https://github.com/user-attachments/assets/36a1721a-11c9-4007-87d8-c93aba2836cb)
+
+![image](https://github.com/user-attachments/assets/919a13c0-7dc5-4ed6-b769-3bee7689b918)
+![image](https://github.com/user-attachments/assets/ae4153f6-4775-4889-8226-3941634d1f3e)
+
+##### ALTER, DROP, and Truncate Tables
+
+![image](https://github.com/user-attachments/assets/33f39e68-42cb-4318-b1dc-29ea15383f36)
+
+![image](https://github.com/user-attachments/assets/9842b532-0086-4b4d-8d3b-e7ac2e9915c2)
+
+![image](https://github.com/user-attachments/assets/37d720d0-e458-43d7-9b14-722f59ecc40c)
+
+![image](https://github.com/user-attachments/assets/26f1cb2c-7a95-4fe7-b177-5f559c7feb7a)
+
+![image](https://github.com/user-attachments/assets/d232933c-ca35-4e11-adcd-3d354c34e7d8)
+
+#### Data Movement Utilities
+![image](https://github.com/user-attachments/assets/0599a0fd-538a-4f21-acad-ca1dc268cd98)
+
+![image](https://github.com/user-attachments/assets/b9e7e278-d8fe-4519-9c5a-7c3ad0021027)
+![image](https://github.com/user-attachments/assets/48ed0ed5-31dd-4212-b12f-18eefb06449c)
+
+- backup and store
+  ![image](https://github.com/user-attachments/assets/ad5f66c6-a99f-4b2b-b1c6-6f7eb95183a9)
+
+- import and export
+![image](https://github.com/user-attachments/assets/87f8591e-aab0-4079-a8b2-85372d92661e)
+
+![image](https://github.com/user-attachments/assets/167027e4-4a62-4999-b806-7ad2db185266)
+![image](https://github.com/user-attachments/assets/e1ed0ca0-7861-43a6-9707-d0fb17b9ce63)
+
+#### Loading Data
+![image](https://github.com/user-attachments/assets/f6e5ab65-1863-4c3e-8fa1-3c87606c9d55)
+
+![image](https://github.com/user-attachments/assets/c1ce54b7-3def-4c90-b371-48a1a0b20bb5)
+![image](https://github.com/user-attachments/assets/d15f66db-07e3-486f-a350-49135fbcc506)
+
+
+
+
 
   ### 2. Designing Keys, Indexes, and Constraints
 
