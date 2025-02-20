@@ -217,6 +217,63 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 (note: some of these are NoSQL)
 
 
+- cloud databases
+![image](https://github.com/user-attachments/assets/eb4789f1-8cc5-4aba-ae00-163a0a2289ae)
+
+![image](https://github.com/user-attachments/assets/a00c26c2-f9f6-4d92-8ed8-eb646aca7481)
+
+![image](https://github.com/user-attachments/assets/2ce54130-cbfa-43a0-9539-e959e70da54f)
+
+
+#### Db2
+![image](https://github.com/user-attachments/assets/2d07d040-7d13-4c87-a691-3c5958e008fb)
+
+![image](https://github.com/user-attachments/assets/4337ca71-69e2-488a-945e-6e79253bdaf5)
+
+#### MySQL
+![image](https://github.com/user-attachments/assets/0936347b-ad66-4d04-9a90-9a9643c4f56c)
+
+![image](https://github.com/user-attachments/assets/9ff9054f-fadc-4f3e-a5e1-502e9c97776b)
+
+![image](https://github.com/user-attachments/assets/6da9bcdb-2f8f-4003-b2f6-131766a75705)
+
+![image](https://github.com/user-attachments/assets/68cdcacc-181c-42e7-9447-0aae0caf6381)
+
+![image](https://github.com/user-attachments/assets/15cc6723-1371-4255-b288-435d357f50e9)
+
+![image](https://github.com/user-attachments/assets/0bdadfa4-2fe2-472c-85d0-5a022af96210)
+
+![image](https://github.com/user-attachments/assets/7111627e-ce46-4f20-866a-e0bce3a41097)
+
+![image](https://github.com/user-attachments/assets/579d0a39-b31b-4e0f-b9c3-9a759e8c0f0b)
+
+![image](https://github.com/user-attachments/assets/4a982882-7e0e-4ad6-a03a-893cf966e077)
+
+![image](https://github.com/user-attachments/assets/955304d8-f766-4137-bf87-08b38063dbfd)
+
+![image](https://github.com/user-attachments/assets/22adff96-1dd3-4bd6-9da7-09df81899ab5)
+![image](https://github.com/user-attachments/assets/3fe7b039-a63e-4bfe-8567-581a714b08b6)
+![image](https://github.com/user-attachments/assets/ca759601-7823-4612-905f-3a1f9b19aa1c)
+
+
+#### PostgreSQL
+![image](https://github.com/user-attachments/assets/fc5e5a9a-640a-415b-ac2b-7ed5c09fd386)
+![image](https://github.com/user-attachments/assets/ce2a9f95-e618-47aa-aef1-47910e00e064)
+![image](https://github.com/user-attachments/assets/d4720c07-4ae4-4906-9597-dd720bda0c98)
+
+![image](https://github.com/user-attachments/assets/2796cb70-f113-46fe-b66e-3e048ec648ee)
+![image](https://github.com/user-attachments/assets/b576d612-cde9-4542-8097-87a7dcbbd3db)
+
+![image](https://github.com/user-attachments/assets/914a5cdb-84ee-4673-bd12-2cc3544cc842)
+
+![image](https://github.com/user-attachments/assets/eff90dca-63fe-4cd2-b4b4-c7c2a6421ce6)
+
+![image](https://github.com/user-attachments/assets/f0d32de6-7aa8-4f7b-a80e-2f45419d52f7)
+![image](https://github.com/user-attachments/assets/30bc4cfa-20ed-4b1a-8f70-ef3a10e85b28)
+![image](https://github.com/user-attachments/assets/27972c05-238f-4d06-8546-f95e2decbb1d)
+
+
+
 
 
 
