@@ -153,12 +153,69 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 
 
 
-
-
-
-
   ### 2. Introducing Relational Database Products
-  
+
+#### Database Architecture
+  ![image](https://github.com/user-attachments/assets/6c8a054f-bb3e-4553-8dfc-858d920c85c8)
+
+  ![image](https://github.com/user-attachments/assets/f4a88094-a263-4e98-98b8-9bedd61ecbee)
+
+![image](https://github.com/user-attachments/assets/a124413c-15fd-4a25-9190-6254f48d91c6)
+
+![image](https://github.com/user-attachments/assets/2151c27e-39ec-4f33-adbb-c060334d3386)
+
+![image](https://github.com/user-attachments/assets/b7be7215-4ae3-4b17-b260-585688ee2fd7)
+
+![image](https://github.com/user-attachments/assets/814bcf4f-2626-45ae-a675-cdb46e11f8a3)
+![image](https://github.com/user-attachments/assets/79dc7f1c-f10b-4fb5-99d6-6fdbefd6507d)
+
+- three tier architecture emergence
+![image](https://github.com/user-attachments/assets/3cc827b1-c1aa-44a4-842b-5d3986888afb)
+
+![image](https://github.com/user-attachments/assets/1eae9e9a-e3aa-4061-a848-e0f4abf0eac3)
+
+![image](https://github.com/user-attachments/assets/03cc9dc9-2aff-4c6f-a8b1-114abb2cc4bd)
+
+
+- cloud deployment
+
+![image](https://github.com/user-attachments/assets/e7bef9b8-b69d-4828-ac28-f437f8c1f6ff)
+![image](https://github.com/user-attachments/assets/8553fc0e-65f7-4fcf-81a6-b7672138a991)
+
+#### Distributed Architecture and Clustered Databases
+![image](https://github.com/user-attachments/assets/8ff0ebe8-a3c7-4efc-be5e-8346a0ac830f)
+
+![image](https://github.com/user-attachments/assets/3e565bb3-1f17-4de1-8289-93dfd79636a8)
+
+
+![image](https://github.com/user-attachments/assets/7d4652ff-ce42-4aaa-a509-b760eab4aae3)
+![image](https://github.com/user-attachments/assets/2a0b7ba4-942e-49f5-8454-b39ae3a8421e)
+![image](https://github.com/user-attachments/assets/c743069a-a7f0-4d50-b78c-4d65df7fff64)
+
+![image](https://github.com/user-attachments/assets/46578fc9-d415-4fd4-9cf3-b4357340034f)
+
+![image](https://github.com/user-attachments/assets/c1bfcb12-59f4-4c2d-8607-2ff23fc880dd)
+
+####  Database Usage Patterns
+![image](https://github.com/user-attachments/assets/c497d8ba-631d-44c7-861a-e4acd3eecc94)
+
+![image](https://github.com/user-attachments/assets/73b6abc2-211b-4734-8163-7ad309488074)
+
+![image](https://github.com/user-attachments/assets/e9f01a98-8e44-4a83-a374-bf0c16ca952c)
+
+![image](https://github.com/user-attachments/assets/e7e432e8-819d-410c-b06a-28e7146bee62)
+![image](https://github.com/user-attachments/assets/60c926e3-a5e3-4238-ac62-9d21a67c106c)
+
+#### Introduction to Relational Database Offerings
+![image](https://github.com/user-attachments/assets/833572bd-f420-48df-82d5-0ad4e301c105)
+
+![image](https://github.com/user-attachments/assets/fbc48650-e253-4408-a228-ca9da077bf35)
+
+![image](https://github.com/user-attachments/assets/59e422ea-29b4-4930-a58e-6a7baef46666)
+
+![image](https://github.com/user-attachments/assets/64127be8-348a-4664-b3d3-45a74b8801ab)
+(note: some of these are NoSQL)
+
 
 
 
