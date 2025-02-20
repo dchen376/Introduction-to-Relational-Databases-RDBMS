@@ -365,6 +365,87 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 
   ### 2. Designing Keys, Indexes, and Constraints
 
+  #### Database Objects and Hierarchy (Including Schemas)
+  ![image](https://github.com/user-attachments/assets/0a9ee6fb-f0bb-420d-bf7d-4117d162b922)
+
+![image](https://github.com/user-attachments/assets/8ad8c794-7350-481a-a22d-da7d6b95a47d)
+
+![image](https://github.com/user-attachments/assets/87d0c821-83a9-403c-bd9a-c29a416dbba9)
+
+![image](https://github.com/user-attachments/assets/071bc841-6f35-4272-85e7-1dd5f953a742)
+
+![image](https://github.com/user-attachments/assets/fbbd32a3-63e7-493e-9c4b-45e52f90afaa)
+
+![image](https://github.com/user-attachments/assets/56268e03-8f81-46b4-8433-a5b1351b57e1)
+
+![image](https://github.com/user-attachments/assets/0bea56e1-d759-496b-a96e-de422fc728aa)
+![image](https://github.com/user-attachments/assets/75aa18ec-3244-43b8-b09d-2d793537aa41)
+
+#### Primary Keys and Foreign Keys
+![image](https://github.com/user-attachments/assets/e1326828-d648-4775-9c8f-f6e27ead6f35)
+
+![image](https://github.com/user-attachments/assets/c1f5e090-2777-4817-a5a4-b72382ccb1a1)
+![image](https://github.com/user-attachments/assets/9f79944d-46a6-4cbd-ba07-907c7b845129)
+
+![image](https://github.com/user-attachments/assets/92e21c45-0e17-48ce-ade3-c51a08ed41ae)
+
+![image](https://github.com/user-attachments/assets/11736ab2-7b6a-4523-bece-5aa7fa8294c2)
+
+![image](https://github.com/user-attachments/assets/3e14af2c-ed5e-4320-9ea2-d4db1c2b0712)
+![image](https://github.com/user-attachments/assets/b1267f27-2031-43b5-801f-6809d41eeea5)
+![image](https://github.com/user-attachments/assets/8644542b-347f-4a75-99e9-7ab34d4529bd)
+
+
+#### Overview of Indexes
+![image](https://github.com/user-attachments/assets/249f12b0-8e0f-40e1-9a85-662efaf758d8)
+
+
+![image](https://github.com/user-attachments/assets/733fc461-72cf-4996-8a89-69ce5eac1b3d)
+![image](https://github.com/user-attachments/assets/28fa80b5-8958-4e1d-aae5-b8f79d916fe9)
+![image](https://github.com/user-attachments/assets/4823e17e-9dd8-405f-aaf5-529c0b17a5b8)
+
+![image](https://github.com/user-attachments/assets/6fe085d5-0614-4723-841c-bb313fd75bd2)
+
+
+#### Normalization
+![image](https://github.com/user-attachments/assets/bdbf0d53-ef07-475c-b842-f0a2761e5895)
+
+![image](https://github.com/user-attachments/assets/9099aa0d-0375-450b-9e11-c00d9630567c)
+
+![image](https://github.com/user-attachments/assets/3adffe4f-8f25-481b-8a2c-48b5d08a6146)
+![image](https://github.com/user-attachments/assets/90b0fe58-5a68-4830-84b0-6733febfd4a5)
+
+![image](https://github.com/user-attachments/assets/10f2b309-7655-4978-aaee-992c58d18b6e)
+![image](https://github.com/user-attachments/assets/d06e5fa9-5b46-4e34-ad57-e34e67ef240d)
+![image](https://github.com/user-attachments/assets/074d1983-c032-4a94-9c28-e0c70d1d537d)
+
+![image](https://github.com/user-attachments/assets/983e6528-2598-4f36-b0df-84a2f2f67f2b)
+![image](https://github.com/user-attachments/assets/83b847ca-ad9c-4f6c-9652-5a4e60785ca9)
+![image](https://github.com/user-attachments/assets/41001480-2db2-4f86-b643-487e2a342216)
+
+![image](https://github.com/user-attachments/assets/4a2876ec-5e26-4930-9709-fc7fc872184f)
+
+![image](https://github.com/user-attachments/assets/63bd908a-49e1-4337-adba-0c9a2fb2d247)
+
+
+#### Relational Model Constraints - Advanced
+
+![image](https://github.com/user-attachments/assets/150212b8-2b55-4833-b650-685ce700cb9b)
+![image](https://github.com/user-attachments/assets/be52921a-445e-4255-a846-5cb0748701f9)
+
+![image](https://github.com/user-attachments/assets/cfce81f0-2308-43d3-a88b-a0fa533d0947)
+
+![image](https://github.com/user-attachments/assets/a37d3a6d-509c-4366-b134-3d9483ad7adb)
+
+![image](https://github.com/user-attachments/assets/7eb6aa8d-ac54-4d3a-9b62-2ad37dc5a6e3)
+
+![image](https://github.com/user-attachments/assets/807fa774-e34d-45f9-88d9-39d6b380b8be)
+
+
+
+
+  
+
   ### 3. (Optional) Db2 Labs
 
 
