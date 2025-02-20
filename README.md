@@ -136,6 +136,24 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 
 
 #### Relational Model Concepts
+![image](https://github.com/user-attachments/assets/23ad5214-8fa4-41d6-8739-2b26c3fd34b4)
+
+- sets
+![image](https://github.com/user-attachments/assets/56cd65bd-c006-473a-8efe-41dc31df3906)
+
+ - relations
+![image](https://github.com/user-attachments/assets/b110fe99-06b0-4e67-8da5-cb87121b8755)
+
+![image](https://github.com/user-attachments/assets/27b47e48-0306-40d0-a8e9-8f79b4d6b106)
+
+![image](https://github.com/user-attachments/assets/3ba5feb3-6fad-41a2-a3e0-30f5975989c0)
+
+![image](https://github.com/user-attachments/assets/028cecb7-9f13-4945-8d3d-9f1a579460cd)
+
+
+
+
+
 
 
 
