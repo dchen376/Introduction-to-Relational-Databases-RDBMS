@@ -273,6 +273,19 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 ![image](https://github.com/user-attachments/assets/27972c05-238f-4d06-8546-f95e2decbb1d)
 
 
+#### Deep Dive into Advanced Relational Model Concepts
+
+1. Functional Dependencies (FDs)
+![image](https://github.com/user-attachments/assets/b50ea647-69e2-4b5f-963c-8954a72a1000)
+
+2. Multi-Valued Dependencies (MVDs)
+![image](https://github.com/user-attachments/assets/02689102-f2f5-4b90-8d50-8e9fa680cc16)
+
+3. Candidate Keys
+![image](https://github.com/user-attachments/assets/6365d801-e05e-4508-87d0-87ccafbcfb2c)
+
+![image](https://github.com/user-attachments/assets/79300704-7be6-442a-a934-5080ffcb884c)
+
 
 
 
