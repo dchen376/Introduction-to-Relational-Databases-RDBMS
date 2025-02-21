@@ -556,7 +556,27 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 (dump file)
 ![image](https://github.com/user-attachments/assets/eccad3c9-d65b-4f76-8214-1dfdc5096251)
 
-  
+#### Views
+![image](https://github.com/user-attachments/assets/5074f571-3d93-4902-9054-863864efed92)
+
+![image](https://github.com/user-attachments/assets/4e7b8e77-7a83-482d-a9f3-c3c5c3816b65)
+
+![image](https://github.com/user-attachments/assets/530b129a-80c6-4800-b6ea-784ca02ec228)
+![image](https://github.com/user-attachments/assets/2a0ac166-c6c7-41b0-9a65-5e6fbfe89951)
+
+- create view
+![image](https://github.com/user-attachments/assets/fbf8b54c-d131-43c7-a446-c22e80ac10e8)
+
+- materialized views
+  ![image](https://github.com/user-attachments/assets/30132f97-31bb-4535-8107-fff6e95120fc)
+![image](https://github.com/user-attachments/assets/c97dee3f-cdb7-4659-955f-2170c0bb6ec5)
+
+
+
+
+
+
+
 
 ## M4 - Final Project and Assessment
 ![image](https://github.com/user-attachments/assets/10984442-1745-49a7-ae31-8571d7fdfcb2)
