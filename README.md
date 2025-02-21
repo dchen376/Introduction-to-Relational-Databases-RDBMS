@@ -512,12 +512,49 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 ![image](https://github.com/user-attachments/assets/35670f56-ce63-4399-bbbe-0d7b5c5ee33b)
 
 
-
-
-
-
   ### 2. PostgreSQL
 
+  #### Getting Started with PostgreSQL
+  ![image](https://github.com/user-attachments/assets/79dec21e-efff-4807-a5fb-bef295fd958d)
+![image](https://github.com/user-attachments/assets/2f6e77d5-fd3f-4082-97cb-8a355e888e94)
+
+![image](https://github.com/user-attachments/assets/0b20cf65-f972-4c7a-adad-8b0bc370dad2)
+![image](https://github.com/user-attachments/assets/95b336e1-688b-4855-83fe-54538f89a139)
+
+![image](https://github.com/user-attachments/assets/c425a6b0-af4c-4713-9662-49816f246262)
+
+![image](https://github.com/user-attachments/assets/06d992cf-0234-4f69-89b1-cbd56028377d)
+![image](https://github.com/user-attachments/assets/4bba8b84-2e12-4f75-8ac0-58dc21630cd0)
+
+![image](https://github.com/user-attachments/assets/a3a9fd44-57c1-4247-86f6-dd9475ee3dfd)
+![image](https://github.com/user-attachments/assets/e84088b6-b01e-4731-bd3b-e6dbb385d9de)
+
+![image](https://github.com/user-attachments/assets/057695b2-4584-4d1e-be64-afdb49d2ae83)
+![image](https://github.com/user-attachments/assets/d688b08e-3f7e-44bb-8568-a16a7b848e02)
+![image](https://github.com/user-attachments/assets/2fc47dc9-eafe-4972-bdb0-a9a599cb2f20)
+![image](https://github.com/user-attachments/assets/f556b59a-66ca-4170-8551-9bf12948f6b9)
+
+![image](https://github.com/user-attachments/assets/49231920-ee98-4684-8f4b-59320acf8f19)
+
+
+#### Creating Databases and Loading Data in PostgreSQL
+![image](https://github.com/user-attachments/assets/ac2a6a94-29a4-49f7-b726-b6dce840f4ad)
+
+
+- create 
+![image](https://github.com/user-attachments/assets/47fa4652-7f93-4dbe-91d0-db3857c6a3d0)
+
+- load
+  ![image](https://github.com/user-attachments/assets/a4aa9b36-84be-4251-8915-2b9251784518)
+![image](https://github.com/user-attachments/assets/9808a319-bcb5-4b22-8678-e3d425993081)
+
+(restore)
+![image](https://github.com/user-attachments/assets/9143bc5c-6c09-477d-bb31-c0a247d8dc75)
+
+![image](https://github.com/user-attachments/assets/be632113-9b7f-42fc-8a30-bb01f113a1e5)
+
+(dump file)
+![image](https://github.com/user-attachments/assets/eccad3c9-d65b-4f76-8214-1dfdc5096251)
 
   
 
