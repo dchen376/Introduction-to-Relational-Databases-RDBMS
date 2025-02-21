@@ -442,14 +442,7 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 ![image](https://github.com/user-attachments/assets/807fa774-e34d-45f9-88d9-39d6b380b8be)
 
 
-
-
-  
-
   ### 3. (Optional) Db2 Labs
-
-
-
 
 
 ## M3 - MySQL and PostgreSQL
@@ -457,6 +450,70 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 
 
   ### 1. MySQL
+#### Getting Started with MySQL
+![image](https://github.com/user-attachments/assets/002a79f8-cdf9-4648-bbcc-f295d68642a9)
+![image](https://github.com/user-attachments/assets/c3127a8c-a0b6-4da3-8666-b4316ce96c45)
+
+![image](https://github.com/user-attachments/assets/cb457830-6593-4cd9-aa8d-dc5d86f1f5a6)
+
+![image](https://github.com/user-attachments/assets/67411c23-6847-4a3a-bb7d-dbb1cc315615)
+![image](https://github.com/user-attachments/assets/89bf4185-cd2e-4c2a-8020-c9a1a15c3e43)
+![image](https://github.com/user-attachments/assets/6343a781-2e96-4a8b-8a66-b0fe0b9c8b03)
+
+![image](https://github.com/user-attachments/assets/03927d5f-94bd-4091-b59f-64a61c237819)
+
+![image](https://github.com/user-attachments/assets/1b2ead19-1515-48f9-950f-8fc960164769)
+![image](https://github.com/user-attachments/assets/3319f862-f7d2-4d01-8e97-6b458dbe6e2f)
+
+![image](https://github.com/user-attachments/assets/ca6ee33a-cd6f-42f9-b751-253cfe4e1546)
+![image](https://github.com/user-attachments/assets/df046465-3ac1-4d8a-b7a7-e8e326056b3d)
+
+![image](https://github.com/user-attachments/assets/a8fac306-ac84-4805-82c3-3129d5d8582c)
+![image](https://github.com/user-attachments/assets/c935132a-36dc-4c9a-8cba-c544857ad7ed)
+
+![image](https://github.com/user-attachments/assets/12273357-b806-4a47-80cc-531f79a6b7ad)
+
+#### Creating Databases and Tables in MySQL
+![image](https://github.com/user-attachments/assets/24909a12-b2f6-4096-ad1c-51aaba5c6cb0)
+
+![image](https://github.com/user-attachments/assets/6c17b8ab-17de-4a55-a04f-fd937446eac1)
+
+![image](https://github.com/user-attachments/assets/064a6933-b3c5-4f4e-8cd9-4fe54770d67a)
+![image](https://github.com/user-attachments/assets/9d7306ae-c3b1-4dd3-98b4-ef9f92031f51)
+
+#### Populating MySQL Databases and Tables
+![image](https://github.com/user-attachments/assets/b5e99a32-4891-4f6f-b903-241c593d70d7)
+
+- backup
+![image](https://github.com/user-attachments/assets/2ca46a97-2f46-4b0d-b98a-e9c4823053e0)
+![image](https://github.com/user-attachments/assets/0cf68566-d81c-4652-a6e2-d53a5e84b58e)
+
+![image](https://github.com/user-attachments/assets/470b9734-0dbe-47c1-8737-d8b5438d31cf)
+![image](https://github.com/user-attachments/assets/9bb44123-786b-44b7-a6ee-523538ee291c)
+
+- import
+  ![image](https://github.com/user-attachments/assets/908acbb4-9d5b-4843-b35a-cbe0d4836ad0)
+![image](https://github.com/user-attachments/assets/c06ea73a-4d3c-4f25-80c6-2dc137c29afd)
+
+#### Hands-on Lab: Getting Started with MySQL Command Line
+
+##### Entity-Relationship Diagram (ERD)
+![image](https://github.com/user-attachments/assets/800d4a5a-f09f-4dda-9b59-5c4245031cb0)
+
+
+#### Using Keys and Constraints in MySQL
+![image](https://github.com/user-attachments/assets/1ad207be-adbb-455b-a449-d933c910d4fc)
+
+![image](https://github.com/user-attachments/assets/71e7d5be-9a12-4672-bb22-05e4fc129598)
+
+![image](https://github.com/user-attachments/assets/0142485c-7afc-46b2-bee2-08a97cf2b48a)
+
+![image](https://github.com/user-attachments/assets/1be8f06a-ce57-4977-bb13-f3826bfd8d9c)
+![image](https://github.com/user-attachments/assets/35670f56-ce63-4399-bbbe-0d7b5c5ee33b)
+
+
+
+
 
 
   ### 2. PostgreSQL
