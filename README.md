@@ -581,8 +581,28 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 ## M4 - Final Project and Assessment
 ![image](https://github.com/user-attachments/assets/10984442-1745-49a7-ae31-8571d7fdfcb2)
 
+![image](https://github.com/user-attachments/assets/c5b1726d-72a9-4ea8-8880-172e1a6d47a8)
+![image](https://github.com/user-attachments/assets/36aa0f94-c6c1-452a-9d7b-b1e83cdba0a1)
+![image](https://github.com/user-attachments/assets/262f53d7-1d91-4f09-8e71-e5bc388c33b1)
+![image](https://github.com/user-attachments/assets/de7cbf1d-4b69-48fe-a5b3-220f0fd75caa)
+
+![image](https://github.com/user-attachments/assets/a0cc2e77-8810-4078-9fae-43a88d5c00fd)
+![image](https://github.com/user-attachments/assets/4a181ca8-dd7d-4d34-9e72-3c859e676b5f)
+![image](https://github.com/user-attachments/assets/87b5c6e9-9615-46b5-a80d-a2de29f4bbc1)
+
+![image](https://github.com/user-attachments/assets/eb4a850e-a126-496c-9990-ff9d6f34f868)
+
+
+
+
+
+
 
   ### 1. Final Project
+  #### Approach to Database Design (Including ERD)
+![image](https://github.com/user-attachments/assets/1beb52e3-d51f-4259-9777-5b96ecfc0512)
+
+
 
 
 
