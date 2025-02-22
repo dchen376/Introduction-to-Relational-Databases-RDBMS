@@ -600,6 +600,15 @@ https://www.coursera.org/learn/introduction-to-relational-databases/
 ![image](https://github.com/user-attachments/assets/87b5c6e9-9615-46b5-a80d-a2de29f4bbc1)
 
 ![image](https://github.com/user-attachments/assets/eb4a850e-a126-496c-9990-ff9d6f34f868)
+![image](https://github.com/user-attachments/assets/7814286b-5fdf-4189-9a53-04ee6e830b5e)
+
+![image](https://github.com/user-attachments/assets/3a96e999-682d-4d9b-88bd-1520dea9f8ca)
+![image](https://github.com/user-attachments/assets/fc626e0f-282c-4196-8cb6-a03664d96f82)
+
+![image](https://github.com/user-attachments/assets/0c821f33-fefe-49ee-ac23-c66d2f29c9f1)
+![image](https://github.com/user-attachments/assets/06e2c65c-0e77-48e5-9f0d-31fd7a0bed0b)
+![image](https://github.com/user-attachments/assets/f81c441f-a40f-466d-8596-fd49831ee51c)
+
 
 
 
